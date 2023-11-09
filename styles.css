@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.mahasiswa {
+    text-align: center;
+    margin: 20px;
+}
+
+.mahasiswa img {
+    width: 150px; /* Atur ukuran gambar sesuai kebutuhan */
+    height: 150px; /* Atur ukuran gambar sesuai kebutuhan */
+    border-radius: 50%; /* Mengatur gambar menjadi bundar */
+    margin: 10px; /* Mengatur jarak antara gambar dan teks */
+}
+
+.mahasiswa-item {
+    margin: 10px;
+    font-size: 18px;
+}
+
+
+h1 {
+    background-color: #3498db;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+img {
+    max-width: 30%;
+}
+
+form {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+}
+
+.mahasiswa {
+    text-align: center;
+    margin: 20px;
+}
+
+.mahasiswa-item {
+    margin: 10px;
+    font-size: 18px;
+}
+
+.komentar {
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#komentarContainer {
+    margin-top: 20px;
+}
+
+#komentarContainer div {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ddd;
+}
